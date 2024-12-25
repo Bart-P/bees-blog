@@ -9,17 +9,17 @@ title = "Blowfish"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Barts Tech Blog"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Bart (Bee) P."
   email = "youremail@example.com"
-  image = "img/blowfish_logo.png"
+  image = "img/profile.jpg"
   imageQuality = 96
-  headline = "Think &rarr; Believe &rarr; Plan &rarr; Act &rarr; Win &rarr; Repeat &orarr;"
+  headline = "Decide &rarr; Believe &rarr; Plan &rarr; Act &rarr; Win &rarr; Repeat &orarr;"
   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
