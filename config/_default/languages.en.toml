@@ -15,11 +15,11 @@ title = ""
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Bart (Bee) P."
+  name = "Bart P."
   email = "youremail@example.com"
   image = "img/profile.jpg"
   imageQuality = 96
-  headline = "Decide &rarr; Believe &rarr; Plan &rarr; Act &rarr; Win &rarr; Repeat &orarr;"
+  headline = "Serial Entrepreneur, Code Monkey, AI Enthusiast"
   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
