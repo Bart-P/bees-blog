@@ -8,18 +8,30 @@ showWordCount = false
 showReadingTime = false
 +++
 
-# Now for the About text
+# Who Am I?
 
-- need still to write something for that... 
-- will do in the next few days
-- saved it up for the content
+Hey there! I’m Bart—a self-proclaimed geek who’s obsessed with all things tech, staying fit, and in love with building stuff others can use. 
+On top of that, I’m the co-founder of two companies and currently knee-deep in building my third venture. 
+Yeah, you could say I’m a bit of a workaholic—but I wouldn’t have it any other way.
 
-## Still to figure out
-- How to add images to posts
-- add some basic content to Categories and Tags
-- and maybe make the content part of single page a bit wider
-- "this shall be not complicated..." - famous last words
-- and also, how to change the font... Mucho Importante
+I started this blog because I’ve got a ton of ideas, stories, and lessons I’ve been itching to share. 
+For years, I’ve been inspired and educated by countless blogs and YouTube channels. 
+Now, it’s my turn to give back—to inspire, teach, and entertain anyone willing to read or watch. 
+Whether you’re here for tech tips, entrepreneurial advice, or just a laugh, welcome to my corner of the internet!
+
+## A Glimpse Into My Journey
+
+TODO - rework this
+I didn’t take the traditional route—no fancy degrees here. I started out at a UPS warehouse, then a call center, 
+and a few other detours before becoming a self-employed sales rep, selling POS (Point of Sale) materials.
+Eventually, my business partner and I took over an e-commerce store selling electrical cables.
+With zero experience, we nearly ran it into the ground, but we managed to turn it around.
+Financially, it gave us the boost to start our POS agency—now my second business.
+Both ventures have had their ups and downs (and near bankruptcies), but today, they support us comfortably.
+
+My passion for tech started early. In school, a friend and I wrote a simple “virus” (a funny Windows login loop) and put it on the school computers.
+Life took me in other directions, but in my thirties, I got back into programming. Now, I’m a self-taught enthusiast building web apps and connecting APIs,
+always hungry to learn more.
 
 ### Some sample text
 
