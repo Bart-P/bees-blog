@@ -16,9 +16,10 @@ I’m Bart—a Linux and tech enthusiast, open-source supporter, proud family ma
 
 ## What I Do
 From e-commerce to jumpstarting a POS agency, I’m all about turning ideas into thriving ventures. 
-These days, I’m deep into coding and AI, constantly finding more to discover and create. I’m here to share what I’ve learned, have some fun, teach a little, and keep learning along the way.
+These days, I’m deep into coding and AI, constantly finding more to discover and create. 
 
 ## Why I’m Here
+I’m here to share what I’ve learned, have some fun, teach a little, and keep learning along the way.
 This blog is my way of inspiring, teaching, and entertaining anyone interested in tech, business, or balancing a chaotic life.
 
 ## My Background in a Nutshell
